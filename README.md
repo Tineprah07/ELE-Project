@@ -5,3 +5,8 @@ Features
 Responsive Design: Works across various screen sizes (desktop, tablet, and mobile).
 Pure HTML & CSS: The entire website is crafted using HTML for structure and CSS for styling.
 Simple & Minimalist UI: Focuses on a clean, user-friendly interface.
+
+Future Improvements
+Add JavaScript for interactivity.
+Enhance accessibility features.
+Add more animations using CSS.
