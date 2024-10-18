@@ -4,5 +4,7 @@ ELE is a static website built using only HTML and CSS. This project showcases fu
 
 Features
 Responsive Design: Works across various screen sizes (desktop, tablet, and mobile).
+
 Pure HTML & CSS: The entire website is crafted using HTML for structure and CSS for styling.
+
 Simple & Minimalist UI: Focuses on a clean, user-friendly interface.
