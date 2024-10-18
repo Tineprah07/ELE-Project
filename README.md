@@ -1,4 +1,5 @@
 ELE Website Project
+
 ELE is a static website built using only HTML and CSS. This project showcases fundamental web development skills by creating a clean, responsive design without using any JavaScript or additional frameworks.
 
 Features
